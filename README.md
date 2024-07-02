@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sahidul-11/Sahidul-11/blob/main/8469936.jpg)
 <h1 align="center">Hi, I'm Sahidul</h1>
-<h3 align="center">A passionate frontend developer . I love to build up unique website .I really enjoy taking hard challenges</h3>
+<h3 align="center">A passionate frontend developer . I love to build up unique website . <br/>I really enjoy taking hard challenges</h3>
 ><br><br>
 
 <h2>Current stat</h2>
