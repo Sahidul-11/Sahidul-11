@@ -1,14 +1,16 @@
 ![logo](https://github.com/Sahidul-11/Sahidul-11/blob/main/8469936.jpg)
 <h1 align="center">Hi, I'm Sahidul</h1>
 <h3 align="center">A passionate frontend developer</h3>
+><br><br>
 
-<h2>Current stst</h2>
+<h2>Current stat</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahidul-11&" alt="sahidul-11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahidul-11&" alt="sahidul-11" /></p>><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sahidul-11&show_icons=true&locale=en" alt="sahidul-11" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahidul-11&show_icons=true&locale=en&layout=compact" alt="sahidul-11" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahidul-11&show_icons=true&locale=en&layout=compact" alt="sahidul-11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahidul-11&show_icons=true&locale=en" alt="sahidul-11" /></p>
+
 
 
 
