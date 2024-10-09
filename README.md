@@ -1,20 +1,20 @@
 ![logo](https://github.com/Sahidul-11/Sahidul-11/blob/main/8469936.jpg)
 
-<h1 align="center">Hi there, I'm Sadik </h1>
-<h3 align="center">Teacher | Fullstack App & Web Developer | Traveler</h3>
+<h1 align="center">Hi there, I'm Sahidu Islam </h1>
+<h3 align="center">Student | Fullstack App & Web Developer | Writer </h3>
 </br>
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m skilled at **Full Stack Development**
+- 🔭 I’m skilled at *Front-end Web & app Development**
 
-- 🌱 I’m currently learning **Mobile App development with React Native**
+- 🌱 I’m currently learning *Typecript & Next.js**
 
-- 📫 How to reach me **sadikd3v@gmail.com**
+- 📫 How to reach me **mdsahidulislam161113@gmail.com**
 
-- ⚡ Fun facts, **Love to coding | reading books | playing video games in leisure time.**
+- ⚡ Fun facts, **Love to coding | reading books | Writing poetry & critical thinking.**
 
-- 📫 Visit my portfolio **https://msadikjowel.vercel.app**
+- 📫 https://roaring-daffodil-2b7451.netlify.app**
 
 <br/>
 
@@ -62,7 +62,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/msadikjowel/github-readme-stats"><img alt="Sadik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msadikjowel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/msadikjowel/github-readme-stats"><img alt="Sahidul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msadikjowel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/msadikjowel/github-readme-stats"><img alt="Sadik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msadikjowel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
