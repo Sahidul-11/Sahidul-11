@@ -65,7 +65,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/sahidul-11/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/sahidul-11/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100050377129681"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://twitter.com/sahidul_11"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sahidul_11/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
