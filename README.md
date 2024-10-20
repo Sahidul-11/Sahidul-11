@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sahidul-11/Sahidul-11/blob/main/8469936.jpg)
 
-<h1 align="center">Hi there, I'm Sahidu Islam </h1>
+<h1 align="center">Hi there, I'm Sahidul Islam </h1>
 <h3 align="center">Student | Fullstack App & Web Developer | Writer </h3>
 </br>
 
