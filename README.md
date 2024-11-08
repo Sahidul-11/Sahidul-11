@@ -1,12 +1,11 @@
 ![logo](https://github.com/Sahidul-11/Sahidul-11/blob/main/8469936.jpg)
 
-<h1 align="center">Hi there, I'm Sahidul Islam </h1>
+<h2 align="center">Hi there, I'm Sahidul Islam </h2>
 
-<p align="center">
-    <strong>Student</strong> |
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Front-End+App+%26+Web+Developer" alt="Typing SVG" />
-    | <strong>Writer</strong>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Front-End+App+%26+Web+Developer" alt="Typing SVG" />
+  
+</h1>
 
 </br>
 
