@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m skilled at *Front-end Web & app Development*
+- 🔭 I’m skilled at *Front-end Web & App Development*
 
 - 🌱 I’m currently learning *TypeScript & Next.js*
 
@@ -39,21 +39,22 @@
 
 <br/>
 
-</br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sahidul-11&theme=react&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+<br/>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Sahidul-11/github-readme-stats"><img alt="Sahidu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sahidul-11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Sahidul-11/github-readme-stats"><img alt="Sahidu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahidul-11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Sahidul-11/github-readme-stats"><img alt="Sahidul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sahidul-11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Sahidul-11/github-readme-stats"><img alt="Sahidul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahidul-11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
-[![Sahidu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahidul-11&theme=react)](https://github.com/Sahidul-11/github-readme-activity-graph)
+[![Sahidul's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahidul-11&theme=react)](https://github.com/Sahidul-11/github-readme-activity-graph)
 <br/>
 <br/>
 
