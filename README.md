@@ -43,9 +43,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Sahidul-11&theme=highcontrast&hide_border=true" alt="Sahidul's GitHub Streak"/>
-  </a>
 </div>
 
 <br/>
