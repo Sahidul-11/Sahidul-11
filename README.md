@@ -2,10 +2,11 @@
 
 <h2 align="center">Hi there, I'm Sahidul Islam </h2>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Front-End+App+%26+Web+Developer" alt="Typing SVG" />
-  
-</h1>
+<p align="center">
+    <strong>Student</strong> |
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&vCenter=true&width=500&lines=Front-End+App+%26+Web+Developer" alt="Typing SVG" />
+    | <strong>Writer</strong>
+</p>
 
 </br>
 
