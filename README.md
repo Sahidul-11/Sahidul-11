@@ -1,7 +1,11 @@
 ![logo](https://github.com/Sahidul-11/Sahidul-11/blob/main/8469936.jpg)
 
 <h1 align="center">Hi there, I'm Sahidul Islam </h1>
-<h3 align="center">Student | Fullstack App & Web Developer | Writer </h3>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Student;Fullstack+App+%26+Web+Developer;Writer" alt="Typing SVG" />
+</p>
+
 </br>
 
 ## 🙋‍♂️ About Me:
