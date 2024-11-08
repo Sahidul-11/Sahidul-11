@@ -39,7 +39,11 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sahidul-11&theme=react&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Sahidul-11&theme=highcontrast&hide_border=true" alt="Sahidul's GitHub Streak"/>
+  </a>
+</div>
 
 <br/>
 
