@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning *TypeScript & Next.js*
 
-- 📫 How to reach me **mdsahidulislam161113@gmail.com**
+- 📫 How to reach me [**mdsahidulislam161113@gmail.com**](mailto:mdsahidulislam161113@gmail.com)
 
 - ⚡ Fun facts: **Love coding | reading books | Writing poetry & critical thinking**
 
