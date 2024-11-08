@@ -44,6 +44,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahidu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahidul-11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+[![GitHub Streak](https://github.com/Sahidul-11/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 </br>
 
 ## 📊 My Github Stats
