@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>Student</strong> |
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&width=550&lines=Front-End+App+%26+Web+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&background=000000EA&vCenter=true&width=500&lines=Front-End+App+%26+Web+Developer" alt="Typing SVG" /></a>
     | <strong>Writer</strong>
 </p>
 
