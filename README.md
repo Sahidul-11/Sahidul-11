@@ -3,7 +3,7 @@
 <h2 align="center">Hi there, I'm Sahidul Islam </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&background=000000EA&center=true&vCenter=true&width=600&height=100&lines=Front-End+App+%26+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&background=000000EA&center=true&vCenter=true&width=800&height=100&lines=Front-End+App+%26+Web+Developer" alt="Typing SVG" />
  
 </p>
 
